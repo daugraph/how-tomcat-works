@@ -521,7 +521,7 @@ public class SocketInputStream extends InputStream {
 
 
     /**
-     * Fill the internal buffer using data from the undelying input stream.
+     * Fill the internal buffer using data from the underlying input stream.
      */
     protected void fill()
         throws IOException {

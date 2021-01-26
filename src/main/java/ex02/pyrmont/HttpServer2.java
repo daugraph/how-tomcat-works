@@ -65,7 +65,7 @@ public class HttpServer2 {
             }
         }
     }
-    
+
 
     public static void main(String[] args) {
         HttpServer1 httpServer1 = new HttpServer1();
